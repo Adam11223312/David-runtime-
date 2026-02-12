@@ -1,1 +1,3 @@
-# David-runtime-
+# David-runtime-fastapi
+uvicorn
+pydantic
